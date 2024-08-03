@@ -1,6 +1,6 @@
-<span style="color:#19c96b">&check;</span> **Two Sum**
-<span style="color:#19c96b">&check;</span> **Maximum Subarray**
-<span style="color:#19c96b">&check;</span> **Merge Intervals**
+1. <span style="color:#19c96b">&check;</span> **Two Sum**
+2. <span style="color:#19c96b">&check;</span> **Maximum Subarray**
+3. <span style="color:#19c96b">&check;</span> **Merge Intervals**
 4. **Best Time to Buy and Sell Stock**
 5. **Product of Array Except Self**
 6. **Find Minimum in Rotated Sorted Array**
